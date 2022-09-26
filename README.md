@@ -12,7 +12,7 @@
 </div>
 <br>
 
-### 🌱 I feel comfortable working with
+### :technologist: I feel comfortable working with
 <div>
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
     <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel">
