@@ -11,6 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusli&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <br>
+
 ### 🌱 I feel comfortable working with
 <div>
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
